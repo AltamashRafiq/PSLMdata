@@ -1,0 +1,10 @@
+Package: PSLMdata
+Type: Package
+Title: Stores the Most Recent PSLM Data
+Version: 0.1.0
+Author: Altamash Rafiq <altamashrafiq@gmail.com>
+Maintainer: Altamash Rafiq <altamashrafiq@gmail.com>
+Description: Stores the 2014-15 Pakistan Social And Living Standards Measurement Data.
+License: What license is it under?
+Encoding: GPL-3
+LazyData: true
