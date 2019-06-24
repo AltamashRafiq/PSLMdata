@@ -33,6 +33,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
 ## basic example code
+# Doing this to test pushing capabilities.
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
