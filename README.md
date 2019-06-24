@@ -4,7 +4,8 @@ PSLMdata
 ========
 
 <!-- badges: start -->
-<!-- badges: end -->
+[![Travis build status](https://travis-ci.org/AltamashRafiq/PSLMdata.svg?branch=master)](https://travis-ci.org/AltamashRafiq/PSLMdata) <!-- badges: end -->
+
 The goal of PSLMdata is to store the 2014-15 Pakistan Social And Living Standards Measurement Data.
 
 Installation

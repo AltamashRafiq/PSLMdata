@@ -10,3 +10,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/AltamashRafiq/PSLMdata
 BugReports: https://github.com/AltamashRafiq/PSLMdata/issues
+RoxygenNote: 6.1.1
